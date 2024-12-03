@@ -1,0 +1,8 @@
+*.adf*
+*.bin*
+*.hex*
+*.lst*
+7segTest.mcu8051ide~
+untitled.asm~
+input.vhc~
+7s.vhc~
