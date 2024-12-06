@@ -2,7 +2,7 @@
 
 Implementation of a binary to decimal input converter with 7seg display for the 8051 microcontroller. 
 
-I used the (MCU8015 IDE)[https://sourceforge.net/projects/mcu8051ide/files/mcu8051ide/1.4.9/] for this project and the virtual hardware feature. 
+I used the [MCU8015 IDE] (https://sourceforge.net/projects/mcu8051ide/files/mcu8051ide/1.4.9/) for this project and the virtual hardware feature. 
 
 Used virtual Hardware:
 - Multiplexed 7seg Display
