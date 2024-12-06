@@ -8,6 +8,6 @@ Used virtual Hardware:
 - Multiplexed 7seg display
 - Simple keypad
 
-You can find the configuration files for the virtual hardware in the repo (`7seg.vsh` for 7seg display, `input.vsh` for keypad) 
+You can find the configuration files for the virtual hardware in the repo (`7seg.vhc` for 7seg display, `input.vhc` for keypad) 
 
-> Note: Because I was a bit lost I implemented the modulo myself instead of using the already existing instruction (it's a feature not a bug 😉)
+> Note: Because I was a bit lost I implemented the modulo myself instead of using the already existing instruction (it's a feature not a bug 😉) -> see [here](https://developer.arm.com/documentation/101655/0961/Ax51-User-s-Guide/Writing-Assembly-Programs/Expressions-and-Operators/Operators/MOD-Assembler-Operator)
